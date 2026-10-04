@@ -15,6 +15,10 @@ You write the message once in the extension's settings, using placeholders like 
 - **Chrome and other Chromium-based browsers:** available.
 - **Firefox:** in development.
 
+## Your responsibility
+
+ChatReact posts whatever tab you have open when you press the shortcut. You are solely and entirely responsible for every link and message it posts to your chat. ChatReact and DesertIce take no responsibility for your browsing activity or for the content of any page you share. See the [terms of service](terms.md#links-and-content-you-post).
+
 ## Policies and help
 
 - [Privacy policy](privacy.md)

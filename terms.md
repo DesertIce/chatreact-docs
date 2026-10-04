@@ -19,6 +19,16 @@ ChatReact posts a message you've configured, based on the page you're viewing, t
 - **Check before you press.** The message includes whichever tab is active when you press the shortcut. If your channel is in a Shared Chat session, Twitch shows the message in every channel in that session.
 - **Use it as intended.** Don't use ChatReact to spam, to get around Twitch's limits or moderation, or to post on channels you don't own or moderate.
 
+## Links and content you post
+
+ChatReact posts a message built from whichever browser tab is active when you press its shortcut. **You are solely and entirely responsible for every message and link ChatReact posts to your Twitch chat**, including:
+
+- which pages you visit and which tab is active when you press the shortcut;
+- the content of any page you link to, and whether it's appropriate for your viewers;
+- any consequences for your channel, your viewers, or anyone else.
+
+ChatReact and DesertIce do not review, filter, or endorse the pages you link to. We take no responsibility for your browsing activity, for the links or messages posted from your account, or for the content of any linked website.
+
 ## Twitch
 
 ChatReact is an independent project. It is not affiliated with, endorsed by, or sponsored by Twitch Interactive, Inc. "Twitch" is a trademark of Twitch Interactive, Inc. ChatReact relies on Twitch's services and APIs. If Twitch changes or withdraws them, some or all of ChatReact may stop working, and we can't guarantee when or whether it can be fixed.
