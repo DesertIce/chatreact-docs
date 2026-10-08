@@ -6,11 +6,19 @@ title: Support
 
 ## Getting started
 
-1. Click the ChatReact icon in your browser toolbar and choose **Connect Twitch**.
-2. Open **Settings** from the same menu to write your message. Use the placeholders `{tab.title}`, `{tab.url}`, `{tab.domain}`, and `{channel}`. The preview shows exactly what will be sent.
-3. Go to any page and press the ChatReact shortcut. The message appears in your chat and is pinned.
+1. Install ChatReact from the [Chrome Web Store](https://chromewebstore.google.com/detail/chatreact/khpihddljmpknjjbjaoioaololfbkaal) (also for Edge, Brave, and other Chromium browsers) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/chatreact/).
+2. Click the ChatReact icon in your browser toolbar and choose **Connect Twitch**.
+3. Open **Settings** from the same menu to write your message. Use the placeholders `{tab.title}`, `{tab.url}`, `{tab.domain}`, and `{channel}`. The preview shows exactly what will be sent.
+4. Go to any page and press the ChatReact shortcut (**Alt+Shift+P** by default). The message appears in your chat and is pinned.
 
 The shortcut only works while your browser window is focused.
+
+## Changing the shortcut
+
+- **Chrome and Chromium browsers:** open `chrome://extensions/shortcuts` (the **Change shortcut** button in ChatReact's settings takes you there).
+- **Firefox:** use **Record shortcut** in ChatReact's settings, or go to `about:addons`, click the gear icon, and choose **Manage Extension Shortcuts**.
+
+Shortcuts must include Ctrl or Alt (or ⌘ Command on macOS). Shift is optional.
 
 ## The toolbar badge
 
@@ -25,8 +33,7 @@ The shortcut only works while your browser window is focused.
 
 **The shortcut does nothing.**
 - Check that the badge doesn't say OFF.
-- Open the shortcut page (in Chrome: `chrome://extensions/shortcuts`) and make sure ChatReact has one. If another extension already uses the default, ChatReact's shortcut is left empty and you need to choose a different one.
-- Shortcuts must include Ctrl or Alt.
+- Make sure ChatReact has a shortcut (see [Changing the shortcut](#changing-the-shortcut)). If another extension already uses the default, ChatReact's shortcut may be left empty and you need to choose a different one.
 
 **"Connect Twitch first."** Open the ChatReact menu and connect your account.
 

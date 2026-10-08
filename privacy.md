@@ -6,7 +6,7 @@ title: Privacy policy
 
 **Effective date:** 3 October 2026
 
-This policy explains what the ChatReact browser extension ("ChatReact", "the extension") does with your information. ChatReact is published by DesertIce ("we", "us"). It applies to every browser version of the extension, including Chrome and other Chromium-based browsers and, once it's released, Firefox.
+This policy explains what the ChatReact browser extension ("ChatReact", "the extension") does with your information. ChatReact is published by DesertIce ("we", "us"). It applies to every version of the extension: the [Chrome Web Store version](https://chromewebstore.google.com/detail/chatreact/khpihddljmpknjjbjaoioaololfbkaal) (which also runs in other Chromium-based browsers) and the [Firefox version](https://addons.mozilla.org/en-US/firefox/addon/chatreact/). Both handle your information the same way.
 
 ## The short version
 
@@ -62,7 +62,7 @@ ChatReact only communicates with Twitch (`id.twitch.tv` and `api.twitch.tv`). It
 
 **Chrome Web Store.** ChatReact's use of information complies with the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/user-data-faq), including the [Limited Use](https://developer.chrome.com/docs/webstore/program-policies/limited-use) requirements. We use the information above only to provide ChatReact's single purpose: posting and pinning messages in your own Twitch chat. We do not use it for advertising or to determine creditworthiness, and no human reads it.
 
-**Firefox Add-ons.** The Firefox version will handle the same information in the same way, and declare it as required by Mozilla's add-on policies.
+**Firefox Add-ons.** As Mozilla's add-on policies require, the Firefox version declares the data it transmits in its manifest: authentication information (your Twitch token), browsing activity (the active tab's address), and website content (the active tab's title). All three go only to Twitch, only as described above.
 
 ## Keeping and deleting your information
 

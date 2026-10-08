@@ -8,12 +8,9 @@ ChatReact is a browser extension for Twitch streamers. Press a keyboard shortcut
 
 You write the message once in the extension's settings, using placeholders like `{tab.title}` and `{tab.url}`. If a message would go over Twitch's 500-character limit, ChatReact removes tracking parameters from the link and then shortens the title.
 
+{% include install-promo.html %}
+
 ![ChatReact settings page with a live preview next to a stream chat showing the pinned message](assets/images/screenshot-1.png)
-
-## Browsers
-
-- **Chrome and other Chromium-based browsers:** available.
-- **Firefox:** in development.
 
 ## Your responsibility
 

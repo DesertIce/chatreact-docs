@@ -1,0 +1,97 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Install callout, following the TwitchFlags extension promo.
+.install-promo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px 32px;
+  margin: 24px 0 32px;
+  padding: 22px 24px;
+  border: 1px solid #ddd6fe;
+  border-radius: 16px;
+  background: linear-gradient(105deg, #f5f3ff, #ede9fe);
+}
+
+.install-promo-copy {
+  flex: 1 1 320px;
+}
+
+.install-promo-copy .eyebrow {
+  margin: 0 0 4px;
+  color: #6d28d9;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.install-promo-copy h2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 20px;
+}
+
+.install-promo-copy p:last-child {
+  margin: 6px 0 0;
+  max-width: 58ch;
+  color: #4b5563;
+  font-size: 14px;
+}
+
+.install-actions {
+  display: grid;
+  gap: 10px;
+}
+
+.install-cta {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  padding: 11px 17px;
+  border: 1px solid #c4b5fd;
+  border-radius: 11px;
+  color: #18151f !important;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(76, 29, 149, 0.12);
+  font-size: 14px;
+  font-weight: 800;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.install-cta:hover {
+  border-color: #7c3aed;
+  background: #faf8ff;
+}
+
+.install-cta:focus-visible {
+  outline: 3px solid #7c3aed;
+  outline-offset: 2px;
+}
+
+.install-cta img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.install-cta .arrow {
+  color: #6d28d9;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
